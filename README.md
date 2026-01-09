@@ -1,51 +1,87 @@
-# 👋 Ibrahim Alhafiz
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" />
+</p>
 
-> Student of Computer science & statistics • Aspiring machine learning / AI practitioner  
-> Interested in applying AI to solve real-world problems
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRyZ3M1eHh3Ym95ZzJneGZ3bmRyZ3M1eHh3Ym95ZzJn&ep=v1_internal_gif_by_id/8301ecf0e7d54039a8c1606560b9432f/giphy.gif" width="35"> 
+  Ibrahim Al Hafiz 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRyZ3M1eHh3Ym95ZzJneGZ3bmRyZ3M1eHh3Ym95ZzJn&ep=v1_internal_gif_by_id/8301ecf0e7d54039a8c1606560b9432f/giphy.gif" width="35">
+</h1>
 
-Hello — I'm Ibrahim. I'm currently studying Computer Science and Statistics and focusing on machine learning and artificial intelligence. I'm actively learning core concepts, tooling, and how to use AI to build practical solutions that help people and organizations.
+<p align="center">
+  <strong>ML/AI Engineer | Bridging the Gap Between Research & Industry</strong>
+</p>
 
----
-<div align="center">
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ibraheem-alhafiz-ba5a9b29a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ibraheem.d.alhafiz@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Ibraheem-AL-hafith?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/Ibraheem-Al-hafith)
-
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable_AI-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Building_Deepthon-orange?style=for-the-badge">
+</p>
 
 
-</div>
+I am an ML/AI Engineer focused on the intersection of mathematical theory and scalable software engineering. I specialize in building high-performance systems, ranging from low-level library development to end-to-end production pipelines.
 
----
----
-
-## 🔭 What I'm learning now
-- Computer Science fundamentals (algorithms, data structures, software engineering basics)  
-- Statistical thinking and probability (inference, hypothesis testing, regression)  
-- Python for data science (NumPy, pandas) and machine learning libraries (scikit-learn, TensorFlow / PyTorch)  
-- Data wrangling, visualization, and exploratory data analysis  
-- Basics of model evaluation, experiment design, and reproducibility
-
+- 🛠️ **Current Focus:** Scaling deep learning architectures and optimizing ML workflows.
+- 🏗️ **Engineering Philosophy:** Write clean, testable code that turns complex research into reliable industry solutions.
+- 🎓 **Background:** Strong Foundation in Mathematics behind computer science and Statistics.
 ---
 
-## 💡 Interests
-- Machine Learning & Deep Learning  
-- Applied AI — using models to solve real-world problems (healthcare, education, environment, business)  
-- Interpretable and responsible AI (making models understandable and fair)  
-- Data-driven decision making
+### 📂 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibraheem-Al-hafith&repo=deepthon&theme=transparent&show_owner=true" alt="Deepthon" width="100%"><br/>
+      <strong>Deepthon</strong><br/>
+      A deep learning library built from scratch using only NumPy. Implements neural network internals and backprop.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibraheem-Al-hafith&repo=deepthon_pipeline&theme=transparent&show_owner=true" alt="Deepthon Pipeline" width="100%"><br/>
+      <strong>Deepthon Pipeline</strong><br/>
+      End-to-end training/testing pipeline for MNIST and industrial datasets using Deepthon.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibraheem-Al-hafith&repo=Thread-Flow-Scheduler&theme=transparent&show_owner=true" alt="Thread Flow Scheduler" width="100%"><br/>
+      <strong>Thread-Flow Scheduler</strong><br/>
+      Multi-threaded task scheduler built in C for Linux, demonstrating low-level resource management.
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <br><br>
+        <em>New Project Coming Soon...</em><br>
+        🏗️ Working on advanced ML architectures.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Goals
-Short-term
-- Complete hands-on projects that demonstrate end-to-end workflows: data → model → evaluation → simple deployment
-- Build a small portfolio of practical, well-documented experiments
+### 🧰 Tech Stack & Tools
 
-Mid / long-term
-- Contribute AI solutions that address real problems (automation, prediction, decision support)
-- Collaborate with others on interdisciplinary projects combining CS and statistics
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **Data & ML** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Ops/Dev** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
 ---
 
-Thank you for visiting my profile — I'm excited to learn, build, and collaborate. Let's make useful AI that solves real problems.
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ibraheem-Al-hafith&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ibraheem-Al-hafith&layout=compact&theme=transparent&hide_border=true" width="42%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+> *"Simplicity is the soul of efficiency."*
