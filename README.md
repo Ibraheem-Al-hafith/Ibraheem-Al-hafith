@@ -35,7 +35,9 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
       A deep learning library built from scratch using only NumPy. Implements neural network internals and backprop.
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibraheem-Al-hafith&repo=deepthon_pipeline&theme=transparent&show_owner=true" alt="Deepthon Pipeline" width="100%"><br/>
+      <a href="https://github.com/Ibraheem-Al-hafith/deepthon_pipeline" target="_blank">
+        <img src="https://github.com/Ibraheem-Al-hafith/deepthon_pipeline/blob/main/assets/img.png" alt="Deepthon Pipeline" width="100%">
+      </a><br/>
       <strong>Deepthon Pipeline</strong><br/>
       End-to-end training/testing pipeline for MNIST and industrial datasets using Deepthon.
     </td>
