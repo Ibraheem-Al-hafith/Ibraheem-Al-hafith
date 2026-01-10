@@ -30,7 +30,9 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibraheem-Al-hafith&repo=deepthon&theme=transparent&show_owner=true" alt="Deepthon" width="100%"><br/>
+      <a href="https://github.com/Ibraheem-Al-hafith/deepthon">
+        <img src="https://github.com/Ibraheem-Al-hafith/deepthon/blob/main/assets/header.png" alt="Deepthon" width="100%"><br/>
+      </a>
       <strong>Deepthon</strong><br/>
       A deep learning library built from scratch using only NumPy. Implements neural network internals and backprop.
     </td>
@@ -44,7 +46,9 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibraheem-Al-hafith&repo=Thread-Flow-Scheduler&theme=transparent&show_owner=true" alt="Thread Flow Scheduler" width="100%"><br/>
+      <a>
+        <img src="https://github.com/Ibraheem-Al-hafith/Thread-Flow-Scheduler/blob/main/assets/header.png" alt="Thread Flow Scheduler" width="100%"><br/>
+      </a>
       <strong>Thread-Flow Scheduler</strong><br/>
       Multi-threaded task scheduler built in C for Linux, demonstrating low-level resource management.
     </td>
