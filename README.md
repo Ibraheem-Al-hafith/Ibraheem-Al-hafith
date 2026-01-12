@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Location-Khartoum_Sudan-green?style=for-the-badge">
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/ibraheem-alhafiz-ba5a9b29a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ibraheem-alhafiz-ba5a9b29a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="YOUR_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-<a href="mailto:ibraheem.d.alhafiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mailto:ibraheem.d.alhafiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
