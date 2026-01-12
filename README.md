@@ -34,7 +34,8 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 * 🏗️ **Engineering Philosophy:** Write clean, testable code that turns complex research into reliable industry solutions.
 * 🌍 **Community:** Proud student member of **[SAiR (Sudanese AI Research)](https://github.com/SAIR-Org/SAIR_Courses/tree/main)**. 
 
-> **SAiR Goals:** > * 🚀 Accelerating AI adoption in Sudan through high-quality educational resources.
+> **SAiR Goals:**
+> * 🚀 Accelerating AI adoption in Sudan through high-quality educational resources.
 > * 🧪 Bridging the gap between academic research and real-world application.
 > * 🤝 Fostering a collaborative ecosystem for Sudanese developers and researchers to excel globally.
 
@@ -119,6 +120,8 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 
 ---
 
-<p align="center">
+<div align="center">
+  
 > *"Simplicity is the soul of efficiency, but rigor is the foundation of innovation."*
-</p>
+
+</div>
