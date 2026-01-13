@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Scalable_AI-blue?style=for-the-badge&logo=aiq">
   <img src="https://img.shields.io/badge/Status-Building_Deepthon-orange?style=for-the-badge&logo=rocket">
-  <img src="https://img.shields.io/badge/Location-Khartoum_Sudan-green?style=for-the-badge">
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ibraheem-alhafiz-ba5a9b29a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -32,7 +31,7 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 * 🎓 **Education:** Undergraduate Student at the **University of Khartoum** — Faculty of Mathematical Sciences and Informatics. Specializing in **Computer Science and Statistics**.
 * 🛠️ **Current Focus:** Scaling deep learning architectures and optimizing ML workflows.
 * 🏗️ **Engineering Philosophy:** Write clean, testable code that turns complex research into reliable industry solutions.
-* 🌍 **Community:** Proud student member of **[SAiR (Sudanese AI Research)](https://github.com/SAIR-Org/SAIR_Courses/tree/main)**. 
+* 🌍 **Community:** Proud student member of **[SAiR (Sudanese AI Research)](https://github.com/SAIR-Org)**. 
 
 > **SAiR Goals:**
 > * 🚀 Accelerating AI adoption in Sudan through high-quality educational resources.
