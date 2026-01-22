@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Scalable_AI-blue?style=for-the-badge&logo=aiq">
-  <img src="https://img.shields.io/badge/Status-Building_Deepthon-orange?style=for-the-badge&logo=rocket">
+  <img src="https://img.shields.io/badge/Status-Practicing_DeepLearning_with_Pytorch-orange?style=for-the-badge&logo=rocket">
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ibraheem-alhafiz-ba5a9b29a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,15 +45,16 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/Ibraheem-Al-hafith/deepthon/blob/main/assets/header.png?raw=true" alt="Deepthon" width="50%"><br/>
-      <h3>🧠 Deepthon</h3>
-      <p>A "First Principles" deep learning library built using <strong>zero high-level AI frameworks</strong>. Features a custom auto-differentiation engine.</p>
+      <img src="https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline/blob/master/assets/logo.png" alt="CropYield" width="50%"><br/>
+      <h3>Yield Estimation</h3>
+      <p>A modular, robust MLOps pipeline designed to predict crop yields by analyzing agricultural practices, temporal planting data, and environmental factors.</p
       <strong>Key Features:</strong>
       <ul>
-        <li>Backpropagation from scratch</li>
-        <li>Custom Activation & Optimizer logic</li>
+        <li>End-to-End pipeline</li>
+        <li>MLOps with MLFLOW</li>
+        <li>Web Application with <strong>Streamlit</strong> </li>
       </ul>
-      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/deepthon">Deepthon Repository</a><br/><br/>
+      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline">Crop Yield Estimation Repository</a><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Math-Linear_Algebra-blue?style=flat-square" />
@@ -93,7 +94,7 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
       <br/><br/><br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="80" />
       <h4><em>Next Project Loading...</em></h4>
-      <p>Exploring Transformer architectures and Distributed Systems.</p>
+      <p>Building a tiny AutoML Project.</p>
       <img src="https://img.shields.io/badge/Status-Researching-orange?style=for-the-badge" />
     </td>
   </tr>
