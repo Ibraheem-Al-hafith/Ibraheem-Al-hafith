@@ -60,16 +60,17 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
       <img src="https://img.shields.io/badge/Math-Linear_Algebra-blue?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/Ibraheem-Al-hafith/deepthon_pipeline/blob/main/assets/img.png?raw=true" alt="Deepthon Pipeline" width="50%">
+      <img src="https://github.com/Ibraheem-Al-hafith/deepthon/blob/main/assets/img.png?raw=true" alt="Deepthon" width="50%">
       <br/>
-      <h3>📈 Deepthon Pipeline</h3>
+      <h3>📈 Deepthon </h3>
+      <p>A Minimal Deep Learning Framework Built from Scratch with NumPy: And,</p>
       <p>A production-ready MLOps infrastructure for training and deploying Deepthon models with real-time interactivity.</p>
       <strong>Key Features:</strong>
       <ul>
         <li>Experiment tracking with MLflow</li>
         <li><strong>Gradio</strong> web interface for inference</li>
       </ul>
-      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/deepthon_pipeline">Pipeline Repository</a><br/><br/>
+      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/deepthon">Deepthon Repository</a><br/><br/>
       <img src="https://img.shields.io/badge/Gradio-FFBB05?style=flat-square&logo=gradio&logoColor=white" />
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
