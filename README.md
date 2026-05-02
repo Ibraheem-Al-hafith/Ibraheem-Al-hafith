@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Scalable_AI-blue?style=for-the-badge&logo=aiq">
-  <img src="https://img.shields.io/badge/Status-Practicing_DeepLearning_with_Pytorch-orange?style=for-the-badge&logo=rocket">
+  <img src="https://img.shields.io/badge/Status-Working_on_a_graduation_project-orange?style=for-the-badge&logo=rocket">
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ibraheem-alhafiz-ba5a9b29a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,6 +45,23 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <img src="https://github.com/Ibraheem-Al-hafith/AutoFlowML/blob/main/logo.png" alt="AutoFlowML" width="50%"><br/>
+      <h3>AutoML</h3>
+      <p>high-performance, modular AutoML framework designed to transform raw, messy datasets into production-ready Scikit-Learn pipelines. Built with a focus on reproducibility, transparency,           and interoperability, it automates the heavy lifting of data science while giving the architect full control via a centralized configuration system.</p
+      <strong>Key Features:</strong>
+      <ul>
+        <li>End-to-End Workflow Automation</li>
+        <li>Automated Data Preprocessing:</li>
+        <li>Intelligent Model Optimization</li>
+      </ul>
+      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/AutoFlowML/blob/main/logo.png">AutoFlowML Repository</a><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-%3C3.0-150458?logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-1.8-F7931E?logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-1.40-FF4B4B?logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-6.5-3F4F75?logo=plotly&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
       <img src="https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline/blob/master/assets/logo.png" alt="CropYield" width="50%"><br/>
       <h3>Yield Estimation</h3>
       <p>A modular, robust MLOps pipeline designed to predict crop yields by analyzing agricultural practices, temporal planting data, and environmental factors.</p
@@ -59,6 +76,8 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Math-Linear_Algebra-blue?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="https://github.com/Ibraheem-Al-hafith/deepthon/blob/main/assets/img.png?raw=true" alt="Deepthon" width="50%">
       <br/>
@@ -75,8 +94,6 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img src="https://github.com/Ibraheem-Al-hafith/Thread-Flow-Scheduler/blob/main/assets/header.png?raw=true" alt="Thread Flow Scheduler" width="50%"><br/>
       <h3>⚙️ Thread-Flow Scheduler</h3>
@@ -91,11 +108,13 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/GDB-Debugger-purple?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <br/><br/><br/>
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="80" />
       <h4><em>Next Project Loading...</em></h4>
-      <p>Building a tiny AutoML Project.</p>
+      <p>Working on a classification hub....</p>
       <img src="https://img.shields.io/badge/Status-Researching-orange?style=for-the-badge" />
     </td>
   </tr>
