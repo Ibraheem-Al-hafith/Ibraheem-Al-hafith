@@ -54,7 +54,7 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
         <li>Automated Data Preprocessing:</li>
         <li>Intelligent Model Optimization</li>
       </ul>
-      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/AutoFlowML/blob/main/logo.png">AutoFlowML Repository</a><br/><br/>
+      <strong>🔗 Project Link:</strong> <a href="https://github.com/Ibraheem-Al-hafith/AutoFlowML">AutoFlowML Repository</a><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-%3C3.0-150458?logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-1.8-F7931E?logo=scikitlearn&logoColor=white" />
