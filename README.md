@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong>🚀 ML/AI Engineer | Bridging the Gap Between Mathematical Theory & Industry</strong>
+  <strong>🚀 ML Engineer | Bridging the Gap Between Mathematical Theory & Industry</strong>
 </p>
 
 <p align="center">
@@ -31,12 +31,6 @@ I am an ML/AI Engineer focused on the intersection of mathematical theory and sc
 * 🎓 **Education:** Undergraduate Student at the **University of Khartoum** — Faculty of Mathematical Sciences and Informatics. Specializing in **Computer Science and Statistics**.
 * 🛠️ **Current Focus:** Scaling deep learning architectures and optimizing ML workflows.
 * 🏗️ **Engineering Philosophy:** Write clean, testable code that turns complex research into reliable industry solutions.
-* 🌍 **Community:** Proud student member of **[SAiR (Sudanese AI Research)](https://github.com/SAIR-Org)**. 
-
-> **SAiR Goals:**
-> * 🚀 Accelerating AI adoption in Sudan through high-quality educational resources.
-> * 🧪 Bridging the gap between academic research and real-world application.
-> * 🤝 Fostering a collaborative ecosystem for Sudanese developers and researchers to excel globally.
 
 ---
 
