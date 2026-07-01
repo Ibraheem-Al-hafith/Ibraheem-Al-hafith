@@ -51,7 +51,7 @@ Beyond my project work, I actively test my skills in global competitive data sci
 > *A comprehensive deep learning suite tackling five classification challenges using a unified, high-performance training framework built in PyTorch.*
 * **Key Features:** Automated multi-class and binary pipelines, native on-device metric processing to prevent CPU bottlenecks, and robust memory optimization to actively mitigate OOM exceptions.
 * **Domains Covered:** Tabular, Computer Vision (Scratch & Transfer Learning), Audio DSP, and NLP.
-* **🔗 Project Link:** [Classification Hub Repository](https://github.com/Ibraheem-Al-hafith/Classification-Hub)
+* **🔗 Project Link:** [Classification Hub Repository](https://github.com/Ibraheem-Al-hafith/classification_hub)
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
