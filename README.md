@@ -45,59 +45,234 @@ Beyond my project work, I actively test my skills in global competitive data sci
 
 ---
 
-### 📂 Notable Projects
+<h3 align="left">📂 Notable Projects</h3>
 
-#### 🧠 miniGPT (Collaborative AI Framework)
-> *A collaborative PyTorch-based GPT implementation built from scratch, enhanced with fine-tuning capabilities for sequence classification and instruction following.*
-* **Key Features:** Engineered custom fine-tuning layers on top of the foundation model, set up multi-environment training (local, distributed, and Modal cloud infra), and implemented tokenization/sampling mechanics as part of an engineering team.
-* **🔗 Project Link:** [miniGPT Repository](https://github.com/SAIR-Org/miniGPT)
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/LLMs-Fine_Tuning-8A2BE2?style=flat-square">
-  <img src="https://img.shields.io/badge/Modal-Cloud_Compute-000000?style=flat-square">
-</p>
+<div align="center">
 
-#### 🏗️ Classification Hub
-> *A comprehensive deep learning suite tackling five classification challenges using a unified, high-performance training framework built in PyTorch.*
-* **Key Features:** Automated multi-class and binary pipelines, native on-device metric processing to prevent CPU bottlenecks, and robust memory optimization to actively mitigate OOM exceptions.
-* **Domains Covered:** Tabular, Computer Vision (Scratch & Transfer Learning), Audio DSP, and NLP.
-* **🔗 Project Link:** [Classification Hub Repository](https://github.com/Ibraheem-Al-hafith/classification_hub)
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Librosa_DSP-0052CC?style=flat-square">
-</p>
+<!-- Project 1: Classification Hub -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/Ibraheem-Al-hafith/classification_hub">
+        <img src="https://github.com/Ibraheem-Al-hafith/classification_hub/blob/main/assets/logo.png" width="100%" style="border-radius: 6px;" alt="Classification Hub Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">🏗️ Classification Hub</h3>
+        &nbsp;
+        <a href="https://github.com/Ibraheem-Al-hafith/classification_hub">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        A comprehensive deep learning suite tackling five classification challenges using a unified, high-performance PyTorch framework.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>⚡ Highlight:</b></td>
+          <td>Native on-device metric processing to prevent CPU bottlenecks.</td>
+        </tr>
+        <tr>
+          <td><b>🛡️ Reliability:</b></td>
+          <td>Proactive memory optimization to actively mitigate OOM exceptions.</td>
+        </tr>
+        <tr>
+          <td><b>🌐 Domains:</b></td>
+          <td>Tabular, Computer Vision, Audio DSP, and NLP.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/Librosa_DSP-0052CC?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-#### ⚙️ AutoFlowML
-> *A high-performance, modular AutoML framework designed to transform raw, messy datasets into production-ready Scikit-Learn pipelines.*
-* **Key Features:** End-to-end workflow automation, intelligent model optimization, and automated data preprocessing handled via a centralized configuration system.
-* **🔗 Project Link:** [AutoFlowML Repository](https://github.com/Ibraheem-Al-hafith/AutoFlowML)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-</p>
+<br />
 
-#### 📈 Deepthon
-> *A minimal Deep Learning framework built entirely from scratch using NumPy arrays to establish neural architectures without external framework abstractions.*
-* **Key Features:** Explicit mathematical implementation of backpropagation, experiment tracking with MLflow, and a Gradio web interface for real-time inference.
-* **🔗 Project Link:** [Deepthon Repository](https://github.com/Ibraheem-Al-hafith/deepthon)
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradio-FFBB05?style=flat-square&logo=gradio&logoColor=black">
-</p>
+<!-- Project 2: AutoFlowML -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/Ibraheem-Al-hafith/AutoFlowML">
+        <img src="https://github.com/Ibraheem-Al-hafith/AutoFlowML/blob/main/logo.png" width="100%" style="border-radius: 6px;" alt="AutoFlowML Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">⚙️ AutoFlowML</h3>
+        &nbsp;
+        <a href="https://github.com/Ibraheem-Al-hafith/AutoFlowML">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        A high-performance, modular AutoML framework designed to transform raw, messy datasets into production-ready Scikit-Learn pipelines.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>🔄 Pipeline:</b></td>
+          <td>End-to-end workflow automation and data preprocessing.</td>
+        </tr>
+        <tr>
+          <td><b>🎛️ Control:</b></td>
+          <td>Centralized configuration system for automated execution.</td>
+        </tr>
+        <tr>
+          <td><b>🎯 Optimization:</b></td>
+          <td>Intelligent model selection and hyperparameter optimization.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-#### 🌾 AgriYield Pipeline
-> *A modular, robust MLOps pipeline designed to predict crop yields by analyzing agricultural practices, temporal planting data, and environmental factors.*
-* **Key Features:** Structured experiment tracking via MLflow, feature engineering for messy distributions, and an integrated end-to-end Streamlit web application.
-* **🔗 Project Link:** [AgriYield Pipeline Repository](https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Domain-Predictive_Analytics-orange?style=flat-square">
-</p>
+<br />
 
+<!-- Project 3: Deepthon -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/Ibraheem-Al-hafith/deepthon">
+        <img src="https://github.com/Ibraheem-Al-hafith/deepthon/blob/main/assets/header.png" width="100%" style="border-radius: 6px;" alt="Deepthon Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">📈 Deepthon</h3>
+        &nbsp;
+        <a href="https://github.com/Ibraheem-Al-hafith/deepthon">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        A minimal Deep Learning framework built entirely from scratch using NumPy arrays to establish neural architectures without external abstractions.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>🧮 Core Engine:</b></td>
+          <td>Explicit mathematical implementation of backpropagation.</td>
+        </tr>
+        <tr>
+          <td><b>📊 Logging:</b></td>
+          <td>Structured experiment tracking integrated with MLflow.</td>
+        </tr>
+        <tr>
+          <td><b>🖥️ Interface:</b></td>
+          <td>Interactive Gradio web interface for real-time inference.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradio-FFBB05?style=flat-square&logo=gradio&logoColor=black" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Project 4: AgriYield Pipeline -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline">
+        <img src="https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline/blob/master/assets/logo.png" width="100%" style="border-radius: 6px;" alt="AgriYield Pipeline Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">🌾 AgriYield Pipeline</h3>
+        &nbsp;
+        <a href="https://github.com/Ibraheem-Al-hafith/AgriYield_Pipeline">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        A modular MLOps pipeline designed to predict crop yields by analyzing agricultural practices, temporal data, and environmental factors.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>🛠️ Feature Eng:</b></td>
+          <td>Custom feature transformation routines tailored for messy distributions.</td>
+        </tr>
+        <tr>
+          <td><b>📈 Tracking:</b></td>
+          <td>Structured experiment logging and parameter tracking via MLflow.</td>
+        </tr>
+        <tr>
+          <td><b>🚀 Deployment:</b></td>
+          <td>Integrated end-to-end Streamlit web application.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Domain-Predictive_Analytics-orange?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Project 5: miniGPT -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/SAIR-Org/miniGPT">
+        <img src="https://github.com/SAIR-Org/miniGPT/blob/main/sair_gpt_demo.gif" width="100%" style="border-radius: 6px;" alt="miniGPT Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">🧠 miniGPT</h3>
+        &nbsp;
+        <a href="https://github.com/SAIR-Org/miniGPT">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        A collaborative PyTorch-based GPT implementation built from scratch, enhanced with fine-tuning capabilities for sequence classification.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>⚡ Architecture:</b></td>
+          <td>Custom fine-tuning layers built directly on top of the foundation model.</td>
+        </tr>
+        <tr>
+          <td><b>☁️ Infrastructure:</b></td>
+          <td>Multi-environment training setup across local, distributed, and Modal cloud compute.</td>
+        </tr>
+        <tr>
+          <td><b>🔤 Mechanics:</b></td>
+          <td>Custom tokenization, sampling strategies, and instruction-following mechanics.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-Fine_Tuning-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Modal-Cloud_Compute-000000?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 ---
 ### 🧰 Tech Stack & Tools
 
