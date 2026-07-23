@@ -49,6 +49,51 @@ Beyond my project work, I actively test my skills in global competitive data sci
 
 <div align="center">
 
+<!-- Project 5: miniGPT -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/SAIR-Org/miniGPT">
+        <img src="https://github.com/SAIR-Org/miniGPT/blob/main/sair_gpt_demo.gif" width="100%" style="border-radius: 6px;" alt="miniGPT Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">🧠 miniGPT</h3>
+        &nbsp;
+        <a href="https://github.com/SAIR-Org/miniGPT">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        A collaborative PyTorch-based GPT implementation built from scratch, enhanced with fine-tuning capabilities for sequence classification.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>⚡ Architecture:</b></td>
+          <td>Custom fine-tuning layers built directly on top of the foundation model.</td>
+        </tr>
+        <tr>
+          <td><b>☁️ Infrastructure:</b></td>
+          <td>Multi-environment training setup across local, distributed, and Modal cloud compute.</td>
+        </tr>
+        <tr>
+          <td><b>🔤 Mechanics:</b></td>
+          <td>Custom tokenization, sampling strategies, and instruction-following mechanics.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-Fine_Tuning-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Modal-Cloud_Compute-000000?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
 <!-- Project 1: Classification Hub -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
   <tr>
@@ -229,51 +274,10 @@ Beyond my project work, I actively test my skills in global competitive data sci
 
 <br />
 
-<!-- Project 5: miniGPT -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
-  <tr>
-    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
-      <a href="https://github.com/SAIR-Org/miniGPT">
-        <img src="https://github.com/SAIR-Org/miniGPT/blob/main/sair_gpt_demo.gif" width="100%" style="border-radius: 6px;" alt="miniGPT Preview" />
-      </a>
-    </td>
-    <td width="58%" valign="top" style="padding: 16px;">
-      <div align="left">
-        <h3 style="margin: 0; display: inline;">🧠 miniGPT</h3>
-        &nbsp;
-        <a href="https://github.com/SAIR-Org/miniGPT">
-          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </div>
-      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
-        A collaborative PyTorch-based GPT implementation built from scratch, enhanced with fine-tuning capabilities for sequence classification.
-      </p>
-      <table width="100%" style="font-size: 13px;">
-        <tr>
-          <td><b>⚡ Architecture:</b></td>
-          <td>Custom fine-tuning layers built directly on top of the foundation model.</td>
-        </tr>
-        <tr>
-          <td><b>☁️ Infrastructure:</b></td>
-          <td>Multi-environment training setup across local, distributed, and Modal cloud compute.</td>
-        </tr>
-        <tr>
-          <td><b>🔤 Mechanics:</b></td>
-          <td>Custom tokenization, sampling strategies, and instruction-following mechanics.</td>
-        </tr>
-      </table>
-      <br />
-      <div align="left">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLMs-Fine_Tuning-8A2BE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Modal-Cloud_Compute-000000?style=flat-square" />
-      </div>
-    </td>
-  </tr>
-</table>
-
 </div>
+
 ---
+
 ### 🧰 Tech Stack & Tools
 
 | Category | Technologies |
@@ -284,6 +288,7 @@ Beyond my project work, I actively test my skills in global competitive data sci
 | **Forecasting** | ![Statsmodels](https://img.shields.io/badge/-Statsmodels-Blue?style=flat-square) |
 | **Deep Learning & LLMs** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![PyTorchLightning](https://img.shields.io/badge/-Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white) ![TorchVision](https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat-square) ![TorchAudio](https://img.shields.io/badge/-TorchAudio-EE4C2C?style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 | **Ops, Cloud & Viz** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FFBB05?style=flat-square&logo=gradio&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) |
+
 ---
 
 ### 📊 GitHub Activity
