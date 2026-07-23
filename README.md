@@ -47,6 +47,16 @@ Beyond my project work, I actively test my skills in global competitive data sci
 
 ### 📂 Notable Projects
 
+#### 🧠 miniGPT (Collaborative AI Framework)
+> *A collaborative PyTorch-based GPT implementation built from scratch, enhanced with fine-tuning capabilities for sequence classification and instruction following.*
+* **Key Features:** Engineered custom fine-tuning layers on top of the foundation model, set up multi-environment training (local, distributed, and Modal cloud infra), and implemented tokenization/sampling mechanics as part of an engineering team.
+* **🔗 Project Link:** [miniGPT Repository](https://github.com/SAIR-Org/miniGPT)
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/LLMs-Fine_Tuning-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/Modal-Cloud_Compute-000000?style=flat-square">
+</p>
+
 #### 🏗️ Classification Hub
 > *A comprehensive deep learning suite tackling five classification challenges using a unified, high-performance training framework built in PyTorch.*
 * **Key Features:** Automated multi-class and binary pipelines, native on-device metric processing to prevent CPU bottlenecks, and robust memory optimization to actively mitigate OOM exceptions.
@@ -88,15 +98,6 @@ Beyond my project work, I actively test my skills in global competitive data sci
   <img src="https://img.shields.io/badge/Domain-Predictive_Analytics-orange?style=flat-square">
 </p>
 
-#### ⏱️ Thread-Flow Scheduler
-> *A multi-threaded task scheduler designed to master Linux kernel resource management and POSIX thread synchronization.*
-* **Key Features:** Context switching, task prioritization, and low-level C memory management.
-* **🔗 Project Link:** [Scheduler Repository](https://github.com/Ibraheem-Al-hafith/Thread-Flow-Scheduler)
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
-
 ---
 ### 🧰 Tech Stack & Tools
 
@@ -106,8 +107,8 @@ Beyond my project work, I actively test my skills in global competitive data sci
 | **Classical ML & Data** | ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 | **Gradient Boosting** | ![XGBoost](https://img.shields.io/badge/-XGBoost-2C3E50?style=flat-square) ![LightGBM](https://img.shields.io/badge/-LightGBM-FF8C00?style=flat-square) ![CatBoost](https://img.shields.io/badge/-CatBoost-000000?style=flat-square) |
 | **Forecasting** | ![Statsmodels](https://img.shields.io/badge/-Statsmodels-Blue?style=flat-square) |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![PyTorchLightning](https://img.shields.io/badge/-Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white) ![TorchVision](https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat-square) ![TorchAudio](https://img.shields.io/badge/-TorchAudio-EE4C2C?style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Ops, UI & Viz** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FFBB05?style=flat-square&logo=gradio&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) |
+| **Deep Learning & LLMs** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![PyTorchLightning](https://img.shields.io/badge/-Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white) ![TorchVision](https://img.shields.io/badge/-TorchVision-EE4C2C?style=flat-square) ![TorchAudio](https://img.shields.io/badge/-TorchAudio-EE4C2C?style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Ops, Cloud & Viz** | ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Modal](https://img.shields.io/badge/-Modal-000000?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FFBB05?style=flat-square&logo=gradio&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) |
 ---
 
 ### 📊 GitHub Activity
