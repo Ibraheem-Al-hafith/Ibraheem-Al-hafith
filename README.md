@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Mastering_DSA_%26_MLOps-orange?style=flat-square&logo=gitbook&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-Classical_ML_%26_Forecasting-blueviolet?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Building_open__food__mlops-orange?style=flat-square&logo=gitbook&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Classical_ML_%26_MLOps-blueviolet?style=flat-square&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Environment-Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white">
 </p>
 
@@ -92,7 +92,51 @@ Beyond my project work, I actively test my skills in global competitive data sci
   </tr>
 </table>
 
-
+<!-- Project: open_food_mlops -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
+  <tr>
+    <td width="42%" align="center" valign="middle" style="padding: 12px; background-color: #0d1117;">
+      <a href="https://github.com/Ibraheem-Al-hafith/open_food_mlops">
+        <img src="https://blogs.nvidia.com/wp-content/uploads/2020/09/MLOps-Neal-Analytics.png" width="100%" style="border-radius: 6px;" alt="open_food_mlops Preview" />
+      </a>
+    </td>
+    <td width="58%" valign="top" style="padding: 16px;">
+      <div align="left">
+        <h3 style="margin: 0; display: inline;">🥗 open_food_mlops</h3>
+        &nbsp;
+        <a href="https://github.com/Ibraheem-Al-hafith/open_food_mlops">
+          <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/Status-Active_Development-orange?style=flat-square" />
+      </div>
+      <p style="color: #8b949e; font-size: 14px; margin-top: 8px;">
+        An end-to-end classical MLOps framework designed to continuously process, validate, model, and monitor the massive Open Food Products dataset.
+      </p>
+      <table width="100%" style="font-size: 13px;">
+        <tr>
+          <td><b>🔄 Data Engine:</b></td>
+          <td>DVC data versioning with schema validation via Great Expectations.</td>
+        </tr>
+        <tr>
+          <td><b>⚙️ Pipeline:</b></td>
+          <td>Automated orchestration with MLflow tracking and model registry.</td>
+        </tr>
+        <tr>
+          <td><b>🚀 Deployment:</b></td>
+          <td>Containerized FastAPI inference service with monitoring capabilities.</td>
+        </tr>
+      </table>
+      <br />
+      <div align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- Project 1: Classification Hub -->
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
